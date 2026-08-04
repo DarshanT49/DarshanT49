@@ -10,7 +10,7 @@
 
 <a href="https://www.linkedin.com/in/darshan49/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:darshan2749@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://leetcode.com/u/DarshanT49/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 <a href="https://github.com/DarshanT49"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
@@ -48,70 +48,7 @@ public class Darshan {
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=DarshanT49&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DarshanT49&theme=tokyonight&hide_border=true" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarshanT49&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
-</div>
-
----
-
-## 🧩 LeetCode Stats
-
-> ⚠️ Replace `YOUR_LEETCODE_USERNAME` below (in 2 places) with your actual LeetCode username to activate this card.
-
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/DarshanT49?theme=dark&font=Fira%20Code&ext=heatmap" />
-
-</div>
-
-<div align="center">
-
-<img src="https://leetcode-stats-card.vercel.app/api?username=DarshanT49&theme=dark" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=DarshanT49&theme=tokyonight&no-frame=true&row=1&column=6" />
-
-</div>
-
----
-
-## 📌 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/DarshanT49/Ecommerce-Springboot-react">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=DarshanT49&repo=Ecommerce-Springboot-react&theme=tokyonight&hide_border=true"/>
-</a>
-<a href="https://github.com/DarshanT49/Student-Management">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=DarshanT49&repo=Student-Management&theme=tokyonight&hide_border=true"/>
-</a>
-<br/>
-<a href="https://github.com/DarshanT49/Car-Rental-System">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=DarshanT49&repo=Car-Rental-System&theme=tokyonight&hide_border=true"/>
-</a>
-<a href="https://github.com/DarshanT49/Task-Management-Frontend">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=DarshanT49&repo=Task-Management-Frontend&theme=tokyonight&hide_border=true"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
 
 ### 💬 Let's Connect
 
