@@ -31,7 +31,6 @@ public class Darshan {
 }
 ```
 
-- 🎓 Pursuing **MCA** at Dnyansagar Institute of Management and Research, Pune (2024–2026)
 - 💼 Backend-leaning full stack dev — comfortable across **Java/Spring Boot** and **MERN**
 - ⚡ Recently shipped a live production app and cut API/page load times by **70%**
 - 🏦 Built a full **HRMS Payroll system** (attendance, payroll, RBAC) from the ground up
@@ -68,13 +67,13 @@ public class Darshan {
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira%20Code&ext=heatmap" />
+<img src="https://leetcard.jacoblin.cool/DarshanT49?theme=dark&font=Fira%20Code&ext=heatmap" />
 
 </div>
 
 <div align="center">
 
-<img src="https://leetcode-stats-card.vercel.app/api?username=YOUR_LEETCODE_USERNAME&theme=dark" />
+<img src="https://leetcode-stats-card.vercel.app/api?username=DarshanT49&theme=dark" />
 
 </div>
 
